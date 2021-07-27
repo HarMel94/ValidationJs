@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(43, 86, 226)
+}
+
+.form{
+    text-align: center;
+    font-size: 18px;
+    font-family: monospace;
+    padding: 50px ; 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid blue;
+    background-color:rgb(203, 116, 243)
+}
+
+.btn{
+    width: 100%;
+    font-size: 15px;
+    font-family: monospace;
+    background-color:rgb(226, 60, 143)
+}
